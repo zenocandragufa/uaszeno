@@ -1,0 +1,2 @@
+# uaszeno
+database uas zeno
